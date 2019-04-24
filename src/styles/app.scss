@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  font-family: arial, helvetica;
+  font-family: "Roboto", arial, helvetica;
   line-height: 1.4;
   color: #333;
   color: rgba(0, 0, 0, 0.9);
@@ -135,6 +135,8 @@ ul {
 
 .title {
   color: white;
+  background: rgba(34, 35, 38, 0.8);
+  padding: 0 1rem;
   font-size: 700%;
   position: relative;
   z-index: 2;
@@ -429,7 +431,7 @@ p.card-text {
 
 @media screen and (max-width: 770px) {
   .arrow {
-    margin-top: -6.5rem;
+    margin-top: -5.5rem;
   }
   .about-mobile {
     display: initial;

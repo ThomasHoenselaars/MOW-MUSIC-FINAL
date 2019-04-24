@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  font-family: "Roboto", arial, helvetica;
+  font-family: "Roboto Condensed", arial, helvetica;
   line-height: 1.4;
   color: #333;
   color: rgba(0, 0, 0, 0.9);
@@ -137,9 +137,10 @@ ul {
   color: white;
   background: rgba(34, 35, 38, 0.8);
   padding: 0 1rem;
-  font-size: 700%;
+  font-size: 600%;
   position: relative;
   z-index: 2;
+  margin-bottom: 20rem;
 }
 
 .section.hero {

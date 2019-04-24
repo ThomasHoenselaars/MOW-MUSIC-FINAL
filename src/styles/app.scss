@@ -8,6 +8,7 @@
 body {
   margin: 0;
   font-family: arial, helvetica;
+  line-height: 1.4;
   color: #333;
   color: rgba(0, 0, 0, 0.9);
 }
@@ -177,7 +178,7 @@ ul {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(206, 206, 206, 0.5);
+  background: rgba(206, 206, 206, 0.7);
 }
 
 .section.about {

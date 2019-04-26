@@ -3,6 +3,7 @@ import Flickity from "flickity";
 
 const fullPage = new fullpage("#fullpage", {
   //options here
+  licenseKey: '230E284F-A2554F98-B9564237-98F6E1C4',
   autoScrolling: true,
   anchors: ["firstPage", "secondPage", "thirdPage", "fourthPage", "fifthPage"],
   menu: "#menu",
